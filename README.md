@@ -1,0 +1,2 @@
+# traniing
+thực tập sinh
